@@ -18,3 +18,6 @@ Ongoing work:
  - Parallelize harvesting for elastic search core in order to be able to fill the database in hours instead of days.
  - ESRI Rest support directly in OL3
  - ESRI Rest support on MapProxy
+
+Mockup: 
+![search mockup](https://cloud.githubusercontent.com/assets/5114135/14870816/90a466aa-0ca2-11e6-94d6-31e7ee2591e9.png "Search Mockup")
